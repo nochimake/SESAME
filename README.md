@@ -53,11 +53,11 @@
 
 ## Dependencies
 
-1. python=3.8.10
+1. python=3.10.12
 
-2. tensorflow=2.7.0
+2. tensorflow=2.13.0
 
-3. transformers=4.15.0
+3. transformers=4.31.0
 
 
 ## Run
