@@ -1,0 +1,5 @@
+BASE_DIR = '.'
+JAVA_PATH = '/usr/lib/jvm/openjdk-11'
+ROBERTA_PATH = '/usr/anonymous/twitter-roberta-base-sentiment'
+CHINESE_BERT_PATH = '/usr/anonymous/chinese-roberta-wwm-ext'
+STANFORD_CORE_NLP_PATH = '/usr/anonymous/stanford-corenlp-4.5.1'
