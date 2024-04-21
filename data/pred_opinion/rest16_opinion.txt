@@ -1,0 +1,583 @@
+{"text": "yum !", "opinions": [{"actual_index": [-1, -1], "is_potential_aspect": false}]}
+{"text": "serves really good sushi .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "not the biggest portions but adequate .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "green tea creme brulee is a must !", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": true}]}
+{"text": "it has great sushi and even better service .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "the entire staff was extremely accomodating and tended to my every need .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "i ' ve been to this restaurant over a dozen times with no complaints to date .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "the owner is belligerent to guests that have a complaint .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "good food !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "this is a great place to get a delicious meal .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "the staff is pretty friendly .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "the onion rings are great !", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "the lemon chicken tasted like sticky sweet donuts and the honey walnut prawns , the few they actually give you . . . . . were not good .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [26, 27], "is_potential_aspect": false}]}
+{"text": "nice ambience , but highly overrated place .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "worst service i ever had", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "everyone that sat in the back outside agreed that it was the worst service we had ever received .", "opinions": [{"actual_index": [12, 13], "is_potential_aspect": false}]}
+{"text": "our waiter was non - existent and after our food finally arrived over an hour after we ordered , we were not given any water or utensils .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}, {"actual_index": [14, 15], "is_potential_aspect": true}, {"actual_index": [21, 22], "is_potential_aspect": false}]}
+{"text": "i complained to the manager , but he was not even apologetic .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "fabulous italian food !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "\u2013 i highly recommend mioposto .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "i am so happy to have a wonderful italian restaurant in my neighborhood .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [9, 10], "is_potential_aspect": true}]}
+{"text": "the wine list is wonderful and the food reminds me of my recent trip to italy .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "i love this restaurant", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "\u2013 i will never forget the amazing meal , service , and ambiance i experience at this restaurant .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}, {"actual_index": [17, 18], "is_potential_aspect": true}]}
+{"text": "the wine list is incredible and extensive and diverse , the food is all incredible and the staff was all very nice , good at their jobs and cultured .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [14, 15], "is_potential_aspect": false}, {"actual_index": [23, 24], "is_potential_aspect": false}, {"actual_index": [28, 29], "is_potential_aspect": false}]}
+{"text": "i have not a bad thing to say about this place .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "the food was great !", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "it ' s * very * reasonably priced , esp for the quality of the food .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}, {"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "i had the kafta plate and it was perfect .", "opinions": [{"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "\u2013 in a age of incremental cost cutting in restaurants , its nice to see a place that bucks that trend , and just plain delivers high quality food and good service , period .", "opinions": [{"actual_index": [12, 13], "is_potential_aspect": false}, {"actual_index": [25, 26], "is_potential_aspect": false}, {"actual_index": [30, 31], "is_potential_aspect": false}]}
+{"text": "this is the place to relax and enjoy the finest quality food the industry can offer .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "caution - its real food for people who love the best .", "opinions": [{"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "i liked the atmosphere very much but the food was not worth the price .", "opinions": [{"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "i may not be a sushi guru but i can tell you that the food here is just okay and that there is not much else to it .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [18, 19], "is_potential_aspect": false}]}
+{"text": "rice is too dry , tuna was n ' t so fresh either .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "i have eaten here three times and have found the quality and variety of the fish to be excellent .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [7, 8], "is_potential_aspect": false}, {"actual_index": [18, 19], "is_potential_aspect": false}]}
+{"text": "however , the value and service are both severely lacking .", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "furthermore , while the fish is unquestionably fresh , rolls tend to be inexplicably bland .", "opinions": [{"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "the service ranges from mediocre to offensive .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "on a recent trip , our waiter was extremely dismissive , while no less than three staff members waited hand - and - foot on a pair of japanese girls seated nearby .", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": false}, {"actual_index": [17, 18], "is_potential_aspect": true}, {"actual_index": [23, 24], "is_potential_aspect": true}]}
+{"text": "freshest sushi \u2013 i love this restaurant .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "they pay such detail to everything from miso soup to complex rolls .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": true}]}
+{"text": "the sashimi was the freshest and most tender i have ever tasted .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "their apps are all delicious .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "the only drawback is that this place is really expensive and the portions are on the small side .", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "but the space is small and lovely , and the service is helpful .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}, {"actual_index": [12, 13], "is_potential_aspect": false}]}
+{"text": "\u2013 the food was not great & the waiters were rude .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "great service", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "my service was stellar !", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "the bus boy even spotted that my table was shaking a stabilized it for me .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "food was fine , with a some little - tastier - than - normal salsa .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "the food was great , the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me .", "opinions": [{"actual_index": [12, 13], "is_potential_aspect": false}, {"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "mama mia \u2013 i live in the neighborhood and feel lucky to live by such a great pizza place .", "opinions": [{"actual_index": [10, 11], "is_potential_aspect": false}, {"actual_index": [16, 17], "is_potential_aspect": false}]}
+{"text": "the only problem is you really have to warm up the pizza before it ' s edible , even when you order ahead .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [14, 16], "is_potential_aspect": false}]}
+{"text": "but once done , it ' s not too much dough , not too much cheese , not too much sauce .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}, {"actual_index": [12, 13], "is_potential_aspect": false}, {"actual_index": [17, 18], "is_potential_aspect": false}]}
+{"text": "best sushi in town .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "the best calamari in seattle !", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "\u2013 . . . and the best summertime deck experience - - they will even bring you a blanket if you get cold in the seattle evening weather .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "a perfect place to take out of town guests any time of the year .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [13, 14], "is_potential_aspect": true}]}
+{"text": "endless fun , awesome music , great staff ! ! !", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "\u2013 by far the best bar in the east village . . .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "great draft and bottle selection and the pizza rocks .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [7, 8], "is_potential_aspect": true}]}
+{"text": "definitely has one of the best jukebox ' s i ' ve seen in a long long time .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}, {"actual_index": [15, 16], "is_potential_aspect": false}]}
+{"text": "the food is great , the bartenders go that extra mile .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "the owners are great fun and the beer selection is worth staying for .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [7, 8], "is_potential_aspect": true}]}
+{"text": "and the upstairs is a great place to hang out .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "not alot of smoking places left in new york , but i have found my favorite smoking balconey in the city .", "opinions": [{"actual_index": [15, 16], "is_potential_aspect": false}]}
+{"text": "the sushi here is delicious !", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "they have a wide variety of fish and they even list which oceans they come from ; atlantic or pacific .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "i ' ve had the jellyfish , horse mackerel , blue fin tuna and the sake ikura roll among others , and they were all good .", "opinions": [{"actual_index": [25, 26], "is_potential_aspect": false}]}
+{"text": "my only negative comment is that i wish the pieces were a little bigger .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "the decor is rustic , traditional japanese .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "the crowd is mixed yuppies , young and old .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": true}, {"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "the service was courteous and attentive .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "mediocre food", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "the outside patio area has an abbreviated menu .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": true}]}
+{"text": "my g / f and i both agreed the food was very mediocre especially considering the price .", "opinions": [{"actual_index": [12, 13], "is_potential_aspect": false}, {"actual_index": [16, 17], "is_potential_aspect": false}]}
+{"text": "we are locals , and get the feeling the only way this place survives with such average food is because most customers are probably one - time customer tourists .", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": false}, {"actual_index": [16, 17], "is_potential_aspect": false}]}
+{"text": "service was decent .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "drinks were good .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "excellent food , nice ambience , fairly expensive", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "\u2013 i loved the pumpkin ravioli and the goat cheese gnocchi ( 5 big ones to a plate instead of 20 or so little gnocchis ) and my sister loved her filet mignon on top of spinach and mashed potatoes .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [29, 30], "is_potential_aspect": false}]}
+{"text": "the ambiance was a peaceful and relaxing break amongst all the kids running around in downtown disney .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "best indian food in l . a .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "the chicken curry and chicken tikka masala are my favorite meat dishes .", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "the chana masala ( garbanzo beans ) are also excellent .", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "it ' s located in a strip mall near the beverly center , not the greatest location , but the food keeps me coming back for more .", "opinions": [{"actual_index": [15, 16], "is_potential_aspect": false}, {"actual_index": [21, 22], "is_potential_aspect": false}, {"actual_index": [23, 24], "is_potential_aspect": false}]}
+{"text": "never too crowded and always great service .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "i think i have probably tried each item on their menu at least once it is all excellent .", "opinions": [{"actual_index": [17, 18], "is_potential_aspect": false}]}
+{"text": "i can highly recommend their various saag and paneer and korma .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "i appreciate their delivery too .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "nice food but no spice !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "\u2013 i really enjoyed my meal here .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "i had yummy lamb korma , saag paneer , samosas , naan , etc .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "the food was all good but it was way too mild .", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "the naan was some of the best i ' ve had and i really enjoyed the bhartha , not too tomatoey .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}, {"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "even the chickpeas , which i normally find too dry , were good .", "opinions": [{"actual_index": [12, 13], "is_potential_aspect": false}]}
+{"text": "\u2013 i do n ' t understand how i was a stranger to this place for so long . . . the fajita salad , the colorado , the fajitas - everything is delicious .", "opinions": [{"actual_index": [22, 23], "is_potential_aspect": true}, {"actual_index": [33, 34], "is_potential_aspect": false}]}
+{"text": "i love the warm & cosy environment .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "i just found out that you can have the place to yourself on nights and weekends for a private party - ca n ' t wait to celebrate my next birthday there .", "opinions": [{"actual_index": [25, 26], "is_potential_aspect": false}, {"actual_index": [27, 28], "is_potential_aspect": false}]}
+{"text": "best restaurant in the world , great decor , great customer service , friendly manager", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "i am never disappointed with there food .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "the atmosphere is great .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "great lunch spot", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "\u2013 great financial district mexican spot .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "always busy , but they are good at seating you promptly and have quick service .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [6, 7], "is_potential_aspect": false}, {"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "everything i ' ve had here is good , taco salads , burritos , enchiladas i love this place .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}, {"actual_index": [16, 17], "is_potential_aspect": false}]}
+{"text": "also have great margaritas !", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "the food is simply unforgettable !", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "the presentation of the food was an added bonus , it looked just as great as it tasted !", "opinions": [{"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "my best friend had the chicken shawarma and she still raves about it being the best anywhere !", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [15, 16], "is_potential_aspect": false}]}
+{"text": "the staff are friendly and the decor was ethic and colorful .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "go to open sesame ! ! !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "holy hummus !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "\u2013 the food is here is incredible , though the quality is inconsistent during lunch .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "dinners have always been excellent , in terms of food quality .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "the open sesame combo plate is a bargain for the heap of food given .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": true}]}
+{"text": "the side of potatoes is to die for , as is the labne ( yogurt dip ) .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "also , they serve the best hummus in america , with a drizzle of fragrant olive oil ( which , i believe is the traditional way ) !", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "the only drawback is the crowded seating and the slow service .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "however , this place is a gem , and i wo n ' t stop going back .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}, {"actual_index": [11, 14], "is_potential_aspect": false}]}
+{"text": "great beer", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "\u2013 my first time to dine at this restaurant was with my son and it was absolutely horrible !", "opinions": [{"actual_index": [17, 18], "is_potential_aspect": false}]}
+{"text": "i swore never to return for a warm beer and mediocre meal .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "the band was very good and the service was attentive .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "we ordered a selection of the small plates , and the shoe string onions , goat cheese pizza , grilled asparagus and fried brie with fruit were all very good .", "opinions": [{"actual_index": [29, 30], "is_potential_aspect": false}]}
+{"text": "seattle ' s best winelist", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "\u2013 ray ' s ( suprisingly ) has the city ' s best & most diverse wine list .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}, {"actual_index": [12, 13], "is_potential_aspect": false}, {"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "the sommelier is fantastic , down - to - earth , & extremely knowlegable .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "i would go back for the wine experience alone .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "not the place it once was", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "perhaps now , scooner or later falls into the ` ` dive ' ' category .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "\u2013 it is sad to see a place that was once ` ` the ' ' place to meet and eat for bfast or lunch , now be the place that is a big ` ` dont bother . ' '", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [37, 38], "is_potential_aspect": false}]}
+{"text": "the food is not what it once was ( potions have seriously seen downsizing ) prices have gone up , and the service is the worst i have experienced anywhere ( including mainland europe ) .", "opinions": [{"actual_index": [25, 26], "is_potential_aspect": false}]}
+{"text": "what may be interesting to most is the worst sevice / attitude comes from the owners of this establishment .", "opinions": [{"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "this establishment really made a marked decline after ( and this is recurring story ) the airing of food televisions ` ` diners , drive - ins , and dives ' ' hosted by guy fieri , in which schooner or later was subject of .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "open & cool place with the best pizza and coffee", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "\u2013 mioposto has a very creative & delicious pizza menu .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "the coffe is very good , too .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "great open and friendly ambience .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "this place is charming and relaxing .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "the servers behind the counter are always friendly and helpful .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}, {"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "it ' s a great place to enjoy food and meet friends .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "great food , spectacular location , and friendly service keep us coming back year after year .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "enjoyed the food", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "food was good and cheap .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "i had the kafta plate and i enjoyed it .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "atmosphere was nice .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "service was kind of slow , our waitress took forever to give us our check even though it was n ' t that busy .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "still i would recommend this place .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "what else can you say nice people amazing food wow", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "great food with an awesome atmosphere !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "\u2013 eggs , pancakes , potatoes , fresh fruit and yogurt - - everything they serve is delicious .", "opinions": [{"actual_index": [13, 14], "is_potential_aspect": true}, {"actual_index": [17, 18], "is_potential_aspect": false}]}
+{"text": "the best place for a leisure sunday breakfast amidst yachts , then take a stroll through the nearby farmer ' s market .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "great meal \u2013 the fish on the omikase platter was absolutely decadent - - there was none of the stringiness that sometimes accompanies fair sushi - - this fish was perfect ! ! ! !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [30, 31], "is_potential_aspect": false}]}
+{"text": "plus , i am allergic to rice , and the waitstaff was unbelievably accomodating - - did n ' t even bat an eye !", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "and the waiter suggested a perfect sake ! !", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "unbeatable sushi !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "melt in your mouth nigiri and sashmi , and very tasty rolls too .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "be sure to try the oyster roll .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "\u2013 how to describe the best sushi in nyc : hmmmm , delicious , amazing , fantastic , suculent , perfect , nah , all of the above .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}, {"actual_index": [12, 13], "is_potential_aspect": false}, {"actual_index": [14, 15], "is_potential_aspect": false}, {"actual_index": [16, 17], "is_potential_aspect": false}, {"actual_index": [20, 21], "is_potential_aspect": false}]}
+{"text": "i ca n ' t saybenough good things about this restaurant , and i ca n ' t wait for my next several visits .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}, {"actual_index": [18, 19], "is_potential_aspect": false}]}
+{"text": "the best chuwam mushi i have ever had .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "good sushi , high price", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "one of the best sushi place in town .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "the house special roll is really good .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "brunch at murphy ' s is to die for , my specialty . . . egg white omelet , the food is always freshly prepared .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}, {"actual_index": [22, 23], "is_potential_aspect": false}]}
+{"text": "it ' s the perfect spot for a romantic date for 2 or a secret rendezvous !", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "save room for scrumptious desserts .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "the restaurant offers an extensive wine list and an ambiance you wo n ' t forget !", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": true}]}
+{"text": "\u2013 best mexican place for lunch in the financial district .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "love the enchiladas and chicken soup - and be sure to check out their specials .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [12, 13], "is_potential_aspect": false}]}
+{"text": "the cooks have been at the restaurant for years and cook family recipes .", "opinions": [{"actual_index": [8, 9], "is_potential_aspect": true}]}
+{"text": "can get busy on fridays for a table but once seated , the service is so efficient you can be in and out of there quickly .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [15, 16], "is_potential_aspect": false}, {"actual_index": [25, 26], "is_potential_aspect": false}]}
+{"text": "the sushi was excellent and the wait staff was quick .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "the atmosphere was just okay .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "space was limited , but the food made up for it .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "we stood there for 10 minutes while employees walked back and forth ignoring us .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": true}, {"actual_index": [8, 9], "is_potential_aspect": false}, {"actual_index": [12, 13], "is_potential_aspect": false}]}
+{"text": "finally , my wife stood face to face in front of one of the staff and she asked , ` ` are you waiting for a table ? ' '", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "the caesar salad i ordered had so much lemon i could n ' t eat it .", "opinions": [{"actual_index": [11, 14], "is_potential_aspect": false}]}
+{"text": "great food , better margaritas !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "\u2013 this is one of my top lunch spots , huge portions , fast service and amazing margaritas ! !", "opinions": [{"actual_index": [16, 17], "is_potential_aspect": false}]}
+{"text": "it gets really busy , so get there on the early side so you can grab a seat , if you do have to wait , its not bad because the service is quick !", "opinions": [{"actual_index": [33, 34], "is_potential_aspect": false}]}
+{"text": "check out the art on the walls , very colorful !", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "i love this place !", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "\u2013 i have been eating at this place for over 8 years now and i have never had one bad meal .", "opinions": [{"actual_index": [16, 17], "is_potential_aspect": false}]}
+{"text": "i highly recommend this place to all that want to try indain food for the first time .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "the lunch menu is an awesome deal !", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "plenty of food , trust me .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "fresh ingrediants and super tasty .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "best food , phenominal service", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "for the finicky sushi eater and those who have sampled the best nyc has to offer , the fish is the freshest and the service is superb .", "opinions": [{"actual_index": [11, 12], "is_potential_aspect": false}, {"actual_index": [21, 22], "is_potential_aspect": false}, {"actual_index": [26, 27], "is_potential_aspect": false}]}
+{"text": "not only can the selection be innovative , but there ' s a nice balance of traditional sushi as well .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}, {"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "the nicest waiters in town .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "\u2013 this place is unbelievably over - rated .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "if i want to stand in line on sunday for an hour to get average brunch food , then i would put murphy ' s at the top of the list .", "opinions": [{"actual_index": [8, 9], "is_potential_aspect": true}, {"actual_index": [15, 16], "is_potential_aspect": true}, {"actual_index": [27, 28], "is_potential_aspect": false}]}
+{"text": "the regular menu here is slightly above average that is not worth the snotty attitude that you receive .", "opinions": [{"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}, {"actual_index": [11, 12], "is_potential_aspect": false}, {"actual_index": [15, 16], "is_potential_aspect": false}]}
+{"text": "there is only one place on the east coast that has it all , plus a lot more .", "opinions": [{"actual_index": [12, 13], "is_potential_aspect": false}, {"actual_index": [17, 18], "is_potential_aspect": false}]}
+{"text": "bring your cell phone cause you may have to wait to get into the best sushi restaurant in the world : blue ribbon sushi .", "opinions": [{"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "hands down , the best tuna i have ever had .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": true}, {"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "blue ribbon lives up to it ' s fantastic reputation .", "opinions": [{"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "great value sushi with high quality & nice setting .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "try the chef ' s choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [13, 14], "is_potential_aspect": false}, {"actual_index": [19, 20], "is_potential_aspect": false}]}
+{"text": "poor customer service / poor pizza .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "\u2013 as with most restaurants in seattle , mioposto ' s service was bad and the food was overpriced .", "opinions": [{"actual_index": [13, 14], "is_potential_aspect": false}, {"actual_index": [18, 19], "is_potential_aspect": false}]}
+{"text": "i know many people have their favorite types of pizza and pizza places , but mioposto ' s pizza lacks quality and good taste .", "opinions": [{"actual_index": [19, 20], "is_potential_aspect": false}]}
+{"text": "to be honest , i ' ve had better frozen pizza .", "opinions": [{"actual_index": [10, 11], "is_potential_aspect": true}]}
+{"text": "the only positive thing about mioposto is the nice location .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "i was frankly shocked when i read the bad reviews - this place is fantastic ; it has not let us down in any way , and we ' ve eaten here more than 10 times .", "opinions": [{"actual_index": [14, 15], "is_potential_aspect": false}, {"actual_index": [18, 19], "is_potential_aspect": false}, {"actual_index": [30, 31], "is_potential_aspect": false}]}
+{"text": "the food is fantastic , and the waiting staff has been perfect every single time we ' ve been there .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [11, 12], "is_potential_aspect": false}]}
+{"text": "the only problem would be the wait , but we usually just have a drink in the front while waiting .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "seabass on lobster risotto was the best .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "caesar salad was superb .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "great bottle of wine .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "leave room for dessert .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": true}]}
+{"text": "i waited for 10 - 15 minutes for service ordered a beer & was never served again .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "the food was ok , but the service was so poor that the food was cold buy the time everyone in my party was served .", "opinions": [{"actual_index": [10, 11], "is_potential_aspect": false}, {"actual_index": [15, 16], "is_potential_aspect": false}]}
+{"text": "avoid the place", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "when i got there i sat up stairs where the atmosphere was cozy & the service was horrible !", "opinions": [{"actual_index": [17, 18], "is_potential_aspect": false}]}
+{"text": "we left without ever getting service .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "best crab cakes in town", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "\u2013 thats a big statement considering i ' ve been pulling crab traps and making the cakes myself since i was about seven - but something about these little devils gets better every time .", "opinions": [{"actual_index": [31, 32], "is_potential_aspect": false}]}
+{"text": "if you can , come to this place by boat and make it a whole evening .", "opinions": [{"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "great seasonal fish and seafood , with a classy waterfront setting .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "great pizza , poor service", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "\u2013 love their pizza , especially the mushroom pizza .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "also love their caeser salad .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "prefer to order it and pick it up though because i do n ' t like the servers , one young woman in particular .", "opinions": [{"actual_index": [15, 16], "is_potential_aspect": false}, {"actual_index": [23, 24], "is_potential_aspect": false}]}
+{"text": "\u2013 this place is famous for their breakfast .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "many people talk about the great pizza and poor service , so it ca n ' t just be the rantings of a few dissatisfied customers .", "opinions": [{"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "it ' s a great little place with tons of potential to be a neighborhood joint if the service were n ' t so impersonal and corporate - like .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "great breakfast", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "the food is great and they make a mean bloody mary .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "i love breakfast here .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "their crab eggs benedict is addicting .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "all their menu items are a hit , and they serve mimosas .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": true}, {"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "best chinese food i have tasted in a long time", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "the ambiance of the restaurant was nice and good for fine dinning .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}, {"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "the staff was very nice and courteous and obviously chinese .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "so about the prawns , they were fresh and had a slight crispiness about the batter . . . soooo good . . . the walnuts were cut in smaller pieces and very crunchy and tasty .", "opinions": [{"actual_index": [20, 21], "is_potential_aspect": false}, {"actual_index": [35, 36], "is_potential_aspect": false}]}
+{"text": "best honey walnyt prawns that we have every tasted .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "the brocollis were so fresh and tasty .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "i would normally not finish the brocolli when i order these kinds of food but for the first time , every piece was as eventful as the first one . . . the scallops and prawns was so fresh and nicely cooked .", "opinions": [{"actual_index": [24, 25], "is_potential_aspect": false}, {"actual_index": [37, 38], "is_potential_aspect": false}, {"actual_index": [40, 41], "is_potential_aspect": false}]}
+{"text": "chintzy portions", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "\u2013 the sushi here is perfectly good , but for $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced restaurant ( even for nyc ) .", "opinions": [{"actual_index": [29, 30], "is_potential_aspect": false}]}
+{"text": "terrible service , food ok , pricey", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "food wise , its ok but a bit pricey for what you get considering the restaurant is n ' t a fancy place .", "opinions": [{"actual_index": [8, 9], "is_potential_aspect": false}, {"actual_index": [17, 20], "is_potential_aspect": false}]}
+{"text": "if i needed to name some they would include the location to the beach or golden gate park .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [13, 14], "is_potential_aspect": true}, {"actual_index": [17, 18], "is_potential_aspect": true}]}
+{"text": "another plus is the open feel of the restaurant with glass walls on all sides .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "amazing spanish mackeral special appetizer and perfect box sushi ( that eel with avodcao - - um um um ) .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "as usual the omikase did n ' t disappoint in freshness , although it scored low on creativity and selection .", "opinions": [{"actual_index": [15, 16], "is_potential_aspect": false}]}
+{"text": "their specialty rolls are impressive , though i ca n ' t remember what we had .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "green tea creme brulee gets better each time i have it .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "great selection of sakes .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "it is n ' t the cheapest sushi but has been worth it every time .", "opinions": [{"actual_index": [11, 12], "is_potential_aspect": false}]}
+{"text": "very poor customer service .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "\u2013 schooner or later ' s charming location along the marina in long beach and average food does not , unfortunately , compensate for its very poor customer service .", "opinions": [{"actual_index": [20, 21], "is_potential_aspect": false}, {"actual_index": [26, 27], "is_potential_aspect": false}]}
+{"text": "while this diner had reasonably good food , the restaurant staff seemed completely indifferent to our presence , and this attitude was reflected in the lack of service .", "opinions": [{"actual_index": [13, 14], "is_potential_aspect": false}, {"actual_index": [25, 26], "is_potential_aspect": false}]}
+{"text": "the fish was fresh , though it was cut very thin .", "opinions": [{"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "great service .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "good sake selection .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "dungeness crabs here !", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": true}]}
+{"text": "\u2013 ray ' s is the place to go for high quality seafood dinners .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [11, 12], "is_potential_aspect": false}]}
+{"text": "i love dungeness crabs and at ray ' s you can get them served in about 6 different ways !", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [17, 18], "is_potential_aspect": false}]}
+{"text": "we shared the family platter and i especially enjoyed the black cod in sake kasu .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": true}, {"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "i ended the meal with the unusual dessert of a port and chocolate tasting . . . . yummy !", "opinions": [{"actual_index": [18, 19], "is_potential_aspect": false}]}
+{"text": "and the service was simply spendid - quite a delight .", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "\u2013 great drinks , corn beef hash , coffee , b fast burritos , gluten free menu .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [15, 16], "is_potential_aspect": false}]}
+{"text": "the service is fantastic at this fun place .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "if there is a line very day of the week for the entire time a place is open , you know it is great .", "opinions": [{"actual_index": [23, 24], "is_potential_aspect": false}]}
+{"text": "best neighborhood standby .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "in grammercy / union square / east village this is my neighbors and my favorite spot .", "opinions": [{"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "the music is great , no night better or worse , the bar tenders are generous with the pouring , and the lighthearted atmosphere will lifts you spirits .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [18, 19], "is_potential_aspect": false}, {"actual_index": [27, 28], "is_potential_aspect": true}]}
+{"text": "oh , and the cheese fries are awesome !", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": true}]}
+{"text": "good food , great service , average prices ( for the strip )", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "when i walked in , i was taken aback by their incredible wood decor .", "opinions": [{"actual_index": [11, 12], "is_potential_aspect": false}]}
+{"text": "the music playing was very hip , 20 - 30 something pop music , but the subwoofer to the sound system was located under my seat , which became annoying midway through dinner .", "opinions": [{"actual_index": [29, 30], "is_potential_aspect": false}]}
+{"text": "i got the shellfish and shrimp appetizer and it was alright .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": true}]}
+{"text": "it was n ' t the freshest seafood ever , but the taste and presentation was ok .", "opinions": [{"actual_index": [2, 5], "is_potential_aspect": false}, {"actual_index": [15, 16], "is_potential_aspect": false}]}
+{"text": "i picked the asparagus , which turned out to be incredible and perfectly prepared .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [10, 11], "is_potential_aspect": false}, {"actual_index": [12, 13], "is_potential_aspect": false}]}
+{"text": "the 9 oz steak came next and it tasted great , at least initially .", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "the steak was done to my exact liking ( medium rare ) and was nice and juicy .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}, {"actual_index": [14, 15], "is_potential_aspect": false}, {"actual_index": [16, 17], "is_potential_aspect": false}]}
+{"text": "it ? s served with either a peppercorn sauce or red wine reduction , though both were indistinguishable in taste .", "opinions": [{"actual_index": [12, 13], "is_potential_aspect": true}, {"actual_index": [19, 20], "is_potential_aspect": false}]}
+{"text": "though , one thing i realized later on was that the restaurant either used msg or a meat tenderizer on the steak .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "the desert was the perfect ending to an almost perfect dinner .", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "overall , i would go back and eat at the restaurant again .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "but the servers were extremely attentive and very friendly .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "good sake , good food \u2013 i honestly do n ' t know much about japanese food at all .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "server made several sake suggestions which were very good .", "opinions": [{"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "had many dishes but the best was the lobster 3 ways .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "the waiter was a bit unfriendly and the feel of the restaurant was crowded .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [12, 13], "is_potential_aspect": false}]}
+{"text": "also , there was only one bathroom stall - probably need more for such big crowds .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": true}]}
+{"text": "most importantly , we were so excited about the food after seeing the very creative menu .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "at best , the food was good and definately overpriced .", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "for the amount of food we got the prices should have been lower .", "opinions": [{"actual_index": [12, 13], "is_potential_aspect": false}]}
+{"text": "my favortie pizza joint in seattle", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": true}]}
+{"text": "\u2013 this is my ` ` must bring out of town guests to ' ' restaurant and they always enjoy and rave about it .", "opinions": [{"actual_index": [19, 20], "is_potential_aspect": false}]}
+{"text": "the pizza is delicious and the salads are fantastic .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "i ' ve always found the wait staff and , if you sit at the bar , the cooks very friendly .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [20, 21], "is_potential_aspect": false}]}
+{"text": "i also really enjoy the simplicity of the decor and intimate feeling of a small restaurant .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [11, 12], "is_potential_aspect": false}]}
+{"text": "\u2013 my husband and i love eating at mioposto cafe .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "we ' re ca n ' t say enough about their delicious gourmet pizza \u2019 s !", "opinions": [{"actual_index": [-1, -1], "is_potential_aspect": false}]}
+{"text": "you won \u2019 t be disappointed by their menu .", "opinions": [{"actual_index": [-1, -1], "is_potential_aspect": false}]}
+{"text": "the pizza ' s are thin crust and the menu offers very creative combinations and toppings .", "opinions": [{"actual_index": [11, 12], "is_potential_aspect": false}]}
+{"text": "try the pizza ensalata !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "the pizza ' s are not huge and the crust is thin \u2026 keep that in mind when you \u2019 re ordering .", "opinions": [{"actual_index": [-1, -1], "is_potential_aspect": false}]}
+{"text": "the food is sinful .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "the staff was really friendly .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "the atmosphere was great .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": true}]}
+{"text": "the specialty here is decadent pancakes , but i ' ve been back now four times , and i ' ve been wowed every time .", "opinions": [{"actual_index": [22, 23], "is_potential_aspect": false}]}
+{"text": "nothing on the menu is less than amazing .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "good eats .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "i have been to this place , folks and it is bad .", "opinions": [{"actual_index": [11, 12], "is_potential_aspect": false}]}
+{"text": "maybe it is good for that one night once in a blue moon when the chefs decide to use fish that ' s half - way decent .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [26, 27], "is_potential_aspect": false}]}
+{"text": "i have been here , spent tons of money on a chef special dinner and it was a major dissappointment .", "opinions": [{"actual_index": [8, 9], "is_potential_aspect": true}, {"actual_index": [19, 20], "is_potential_aspect": true}]}
+{"text": "\u2013 the atmosphere is great for any special occasion you might want to celebrate .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "the best dish are the honwy walnut prawns - just outstanding .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "fancy pieces of exotic fish on a $ 100 dollar plate and not one was eatable .", "opinions": [{"actual_index": [12, 13], "is_potential_aspect": false}]}
+{"text": "the service is really attentive and charming .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "the service was excellent , the coffee was good even by starbucks standards and the food was outstanding .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [8, 9], "is_potential_aspect": false}, {"actual_index": [17, 18], "is_potential_aspect": false}]}
+{"text": "\u2013 i recently had the pleasure of dining as this delightful restaurant on 2nd street and wow what a great evening we had .", "opinions": [{"actual_index": [10, 11], "is_potential_aspect": false}, {"actual_index": [19, 20], "is_potential_aspect": false}]}
+{"text": "the food is fantastic , authentic , delicious and very , very affordable .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "the decor was beautiful and unique .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "there was a really nice vibe about the place . . . good music , atmosphere and happy looking people .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [12, 13], "is_potential_aspect": false}]}
+{"text": "our server was very professional and friendly .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "to the owners of open sesame . . . bravo . . . i ca n ' t wait to come back to dine at your restaurant !", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "it ' s a tiny place so if you get there before 8pm on a weekend ( thurs ? sun ) you will find it easier to get a table or a seat at the sushi bar .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}, {"actual_index": [35, 36], "is_potential_aspect": true}]}
+{"text": "everything , and i mean everything on the menu is delectable .", "opinions": [{"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "the waiters are very experienced and helpful with pairing your drink choice to your food tastes or vice versa .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "the sushi is as fresh as it comes ? you ' d think ocean was in their backyard , no joke !", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": true}, {"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "if you ' re interested in good tasting ( without the fish taste or smell ) , large portions and creative sushi dishes this is your place . . .", "opinions": [{"actual_index": [2, 4], "is_potential_aspect": false}, {"actual_index": [20, 21], "is_potential_aspect": false}]}
+{"text": "big thick pepperoni", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "\u2013 the pepperoni ' s cut real thick - - yum .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": true}]}
+{"text": "the pizza itself is not exactly the best i ' ve had ever , but still pretty good .", "opinions": [{"actual_index": [17, 18], "is_potential_aspect": false}]}
+{"text": "food was good and appetizing .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "portions was just enough for me , but may not be for a big eater .", "opinions": [{"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "fair menu selection .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": true}]}
+{"text": "the appetizer was interesting , but the creme brulee was very savory and delicious .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [10, 11], "is_potential_aspect": false}, {"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "indoor ambience was modern .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": true}]}
+{"text": "if it ' s nice outside , request for a table in the balcony .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "it ' s a great place to people watch .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "late night dinning with exeptional food .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "we were seated right away , the table was private and nice .", "opinions": [{"actual_index": [11, 12], "is_potential_aspect": false}]}
+{"text": "the service was exceptional - sometime there was a feeling that we were served by the army of friendly waiters .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [18, 19], "is_potential_aspect": false}]}
+{"text": "the food was very good , filet mignon was probably the best i ' ve ever try .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [11, 12], "is_potential_aspect": false}]}
+{"text": "the portions are big though , so do not order too much .", "opinions": [{"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "groovy music made the dinner casual .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "i have a but here - there was a bathroom attendant in the restroom which was odd .", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": true}]}
+{"text": "the bathroom itself is very small with two toilets and only one sink , the girl was staying totally on the way hanging out paper towels from the dispenser .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": true}, {"actual_index": [10, 11], "is_potential_aspect": false}, {"actual_index": [16, 17], "is_potential_aspect": false}]}
+{"text": "\u2013 mercedes restaurant is so tasty , the service is undeniably awesome !", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "the catering is out of this world , and raouls chicken vegetable soup rocks my world ! ! !", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "drinks are suberb , and i feel like i am in a third world country when i walk in the door .", "opinions": [{"actual_index": [12, 13], "is_potential_aspect": false}, {"actual_index": [20, 21], "is_potential_aspect": true}]}
+{"text": "the presentation of snooze is excellent and it is one of those places that you feel more sophisticated just for being there ; but peel back the layers and you have an overpriced ihop with a high brow menu .", "opinions": [{"actual_index": [32, 33], "is_potential_aspect": false}]}
+{"text": "to start off , approximately 8 - 10 oz of orange juice will cost you $ 3 .", "opinions": [{"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "they serve it in a tall , skinny hour - glass shaped glass to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket .", "opinions": [{"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "i should have just asked for the check when i saw that ; but their menu was so unique that i continued .", "opinions": [{"actual_index": [17, 18], "is_potential_aspect": false}]}
+{"text": "the pancakes were certainly inventive but $ 8 . 50 for 3 - 6 ' ' pancakes ( one of them was more like 5 ' ' ) in the pancake flight ( sample of 3 different pancakes ) is well over - priced .", "opinions": [{"actual_index": [43, 44], "is_potential_aspect": false}]}
+{"text": "the pancakes should be larger ( at least 8 ' ' ) to justify the expense even with the unique offerings .", "opinions": [{"actual_index": [15, 16], "is_potential_aspect": false}]}
+{"text": "on my meal i had to send back my eggs for a simple request of breaking the yokes before cooking , and would have had to send them back again if i had n ' t rejected the meal all together .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [15, 16], "is_potential_aspect": false}, {"actual_index": [36, 37], "is_potential_aspect": false}]}
+{"text": "i rejected it because in the process of attempting to fix the eggs they broke something else in the dish and i was too frustrated to continue .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [24, 25], "is_potential_aspect": false}]}
+{"text": "in the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an iced tea ( i had water ) .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "much more than just a great view !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "\u2013 i am exceedingly pleased to report that my dinner at ray ' s boathouse last friday completely exceeded my expectations .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [18, 19], "is_potential_aspect": false}]}
+{"text": "ray ' s is something of a seattle institution , but given its gorgeous sound views , i had suspected that the accolades were more due to the scenery than to the food and service .", "opinions": [{"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "imagine my happy surprise upon finding that the views are only the third - best thing about ray ' s !", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "to start things off , our lovely server brooke was quickly on hand to take my drink order .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "my party of two was feeling particularly ambitious , and we splurged on the shilshole sampler . . . a beautiful assortment of enormous white gulf prawns , smoked albacore tuna , ray ' s fantastic manila clams seasoned with dill , scallops in a tasty soy dressing , and a tiny pile of dungeness crab atop a sublime butter sauce .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": true}, {"actual_index": [11, 12], "is_potential_aspect": false}, {"actual_index": [20, 21], "is_potential_aspect": false}, {"actual_index": [35, 36], "is_potential_aspect": false}, {"actual_index": [58, 59], "is_potential_aspect": false}]}
+{"text": "for my entr & eacute ; e , i completely enjoyed the seared alaskan sea scallops complemented by chard , artichoke hearts , fennel , and pecorino toscano .", "opinions": [{"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "the scallops are apparently cooked in a black olive butter which really makes them unique ( not to mention tasty ) .", "opinions": [{"actual_index": [12, 13], "is_potential_aspect": false}, {"actual_index": [14, 15], "is_potential_aspect": false}, {"actual_index": [19, 20], "is_potential_aspect": false}]}
+{"text": "my friend enjoyed the grilled alaskan king salmon with delectable creamed washington russet potatoes and crisp green beans .", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "i had a taste of all three items on her plate , and they were superb .", "opinions": [{"actual_index": [15, 16], "is_potential_aspect": false}]}
+{"text": "our server continued to be attentive throughout the night , but i did remain puzzled by one issue : who thinks that ray ' s is an appropriate place to take young children for dinner ?", "opinions": [{"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "while i could have done without the youth who shared the evening with us , our wonderful server and food made the experience a very positive one .", "opinions": [{"actual_index": [16, 17], "is_potential_aspect": false}, {"actual_index": [25, 26], "is_potential_aspect": false}]}
+{"text": "oh yeah . . . the view was good , too .", "opinions": [{"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "yum !", "opinions": [{"actual_index": [-1, -1], "is_potential_aspect": false}]}
+{"text": "do n ' t leave the restaurant without it .", "opinions": [{"actual_index": [1, 4], "is_potential_aspect": false}]}
+{"text": "no comparison", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "\u2013 i ca n ' t say enough about this place .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "snotty attitude", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "\u2013 we were treated very rudely here one time for breakfast .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "we never had to wait more than 5 minutes .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "they are not greasy or anything .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "overrated", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "\u2013 i was highly disappointed in the food at pagoda .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "i will not go back .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "i will never return again .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "it was absolutely amazing .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "amazing .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "i can not wait to go back again this coming weekend !", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "mmm . . . good !", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "we ' re going back . : d", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "finally a meal that you will remember for a long time !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "very disappointing", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "\u2013 i took my parents here for their anniversary - very very disappointed ! ! !", "opinions": [{"actual_index": [12, 13], "is_potential_aspect": false}]}
+{"text": "nothing really came across as outstanding .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "very disappointed .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "we were then charged for their most expensive sake ( $ 20 + per serving ) when we in fact drank a sake of less than half that price .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "you are bound to have a very charming time .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "not recommanded ! ! !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "it is not worth going at all and spend your money there ! ! !", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [10, 11], "is_potential_aspect": true}]}
+{"text": "\u2013 pretty cheap for sit down mexican and downtown .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "if you ' re in the area you should n ' t be disappointed .", "opinions": [{"actual_index": [9, 12], "is_potential_aspect": false}]}
+{"text": "ok . . . . \u2013 maybe i went in on someone ' s bad day . . . .", "opinions": [{"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "took forever to get our order taken , water refills were too much to ask for and the only time she was fast was when we asked for our bill when we could get her attention .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [11, 12], "is_potential_aspect": false}, {"actual_index": [26, 27], "is_potential_aspect": false}]}
+{"text": "i do n ' t know if i ' ll be back . . . .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "everything you want and more , very fresh .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "its worth the wait , especially since they ' ll give you a call when the table is ready .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "i went there with some friends one night to play bingo and watch the sox game and it was a blast !", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [20, 21], "is_potential_aspect": false}]}
+{"text": "every time ` ` 0 - sixtynine ' ' is called the bartender buys everyone drinks !", "opinions": [{"actual_index": [14, 15], "is_potential_aspect": true}]}
+{"text": "been there lots since and its always a good time .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}, {"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "i found a new home on second avenue ! ! ! ! ! ! ! ! ! ! ! !", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "just go there and see for yourself .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "you need to watch your game , they will have it on for you .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "kudos to these guys .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "i found a new home and just moved with a long lease .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "unless you are just stopping in for a few drinks i would n ' t recommend going here .", "opinions": [{"actual_index": [12, 15], "is_potential_aspect": false}]}
+{"text": "you are likely to be disappointed .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "it was romantic - and even nice even with my sister , reminded me of italy , and had artwork and music that kept up the feeling of being in a mediterrean villa .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}, {"actual_index": [12, 13], "is_potential_aspect": false}, {"actual_index": [21, 22], "is_potential_aspect": false}, {"actual_index": [26, 27], "is_potential_aspect": false}]}
+{"text": "i recommend it for a night when you want to splurge ! ( it was a bit expensive )", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "the best thing is , the prices are also quite reasonable .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "hidden little jem", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "\u2013 tucked away over by the beverly center .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "you routinely see indian families and friends dining there , which is always a good sign .", "opinions": [{"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "normally , places ask how hot you want it , but they did n ' t .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [13, 16], "is_potential_aspect": false}]}
+{"text": "i should have thought to bring it up but never expected the food to be that mild .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "and they packaged everything nicely so it did n ' t spill .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "awesome find", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "you can order to go if you have to get back to the office too !", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "lebanese food ! yum !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "\u2013 i ' ve been to open sesame only once , but i ' m still reeling from the experience ! !", "opinions": [{"actual_index": [16, 17], "is_potential_aspect": false}]}
+{"text": "what a tastly , flaky treat !", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "there have been several occasions when we ' ve just not gotten some side dishes we ' ve ordered .", "opinions": [{"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "we waited over 30 minutes for our drinks and over 1 1 / 2 hours for our food .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "however , one sunday afternoon my husband and i did go ( although with my loud protests ) and were pleasantly surprised .", "opinions": [{"actual_index": [20, 21], "is_potential_aspect": false}]}
+{"text": "it was like dining at a completely different restaurant .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": true}]}
+{"text": "we have since returned and also had a great experience , sampling more small plates and a variety of the beer ( cold and good ) .", "opinions": [{"actual_index": [8, 9], "is_potential_aspect": false}, {"actual_index": [24, 25], "is_potential_aspect": false}]}
+{"text": "we did have the same waiter the second time , so maybe the service is spotty and our luck is good .", "opinions": [{"actual_index": [20, 21], "is_potential_aspect": false}]}
+{"text": "sunday afternoons there is a band playing and it is lots of fun .", "opinions": [{"actual_index": [12, 13], "is_potential_aspect": false}]}
+{"text": "nice job !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "this is sad for what once was one of the best places you could ever eat .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "i hope one day scooner or later returns to what it once was .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [7, 8], "is_potential_aspect": true}]}
+{"text": "untill this happens , my advice is to stay away .", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "old reliable", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "\u2013 after 12 years in seattle ray ' s rates as the place we always go back to .", "opinions": [{"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "i liked it .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "it was so much though that i could barely finish but i did , since it was delicious .", "opinions": [{"actual_index": [17, 18], "is_potential_aspect": false}]}
+{"text": "wow ! ! ! ! ! ! ! !", "opinions": [{"actual_index": [-1, -1], "is_potential_aspect": false}]}
+{"text": "\u2013 it cant get any better ! ! ! ! !", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "absolutely fabulous ! ! !", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "two thumbs up !", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": true}]}
+{"text": "this is right up there with places in tokyo as far as the freshness is concerned .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "splendid", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "perfect on a cold day .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "$ 6 with tip .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "perfection .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "on weekends , you might have to wait for couple hours .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "however , they do take your cellphone numbers so that you can go hang out somewhere else till they call you up on your cellphone .", "opinions": [{"actual_index": [16, 17], "is_potential_aspect": false}]}
+{"text": "that ' s a huge compliment , especially in the fickled restaurant business , . . . enough already !", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "i guarantee you wo n ' t be disappointed , there ' s also valet parking .", "opinions": [{"actual_index": [4, 7], "is_potential_aspect": false}]}
+{"text": "a cozy spot for 2", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "\u2013 i ca n ' t believe murphy ' s has been around for over 25 years , amazing .", "opinions": [{"actual_index": [18, 19], "is_potential_aspect": false}]}
+{"text": "addicting !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "i went there with a friend from out of town . . . and we were both very impressed !", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "the price was right too .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "i ' d go back there in a heartbeat .", "opinions": [{"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "well i guess it ' s hard to be seated when one is invisible to the staff .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}, {"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "once seated it took about 30 minutes to finally get the meal .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "the prior reviews said kid friendly . . . give me a break with two young children that is light years .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [12, 13], "is_potential_aspect": false}]}
+{"text": "it was decent but nothing exceptional .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "the place is the next best thing to my moms cooking .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "way over - rated ! ! ! !", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "10 !", "opinions": [{"actual_index": [-1, -1], "is_potential_aspect": false}]}
+{"text": "cut to the chase - this is amazing !", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "it ' s unpretentious and underground .", "opinions": [{"actual_index": [1, 3], "is_potential_aspect": false}]}
+{"text": "it ' s fresh , welcoming , delicious , and relaxing .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}, {"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "i went here on a recommendation and will surely return time and time again .", "opinions": [{"actual_index": [8, 9], "is_potential_aspect": false}, {"actual_index": [12, 13], "is_potential_aspect": false}]}
+{"text": "what a find !", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "well worth it", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "good for late night dining ( last minute planning ) without reservations .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "love it every time", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "never had one single problem there .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "seafood plus", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": true}]}
+{"text": "\u2013 this was great dining experience .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "if you ' re going to see danny gans or just staying at the mirage , do n ' t miss this one .", "opinions": [{"actual_index": [20, 21], "is_potential_aspect": false}]}
+{"text": "completely over rated !", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "even then , the order was not correct and we were still waiting for a couple items .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}, {"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "we had a very hard time getting the waitress ' attention and finally had to get up and go inside to speak to a manager .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [19, 20], "is_potential_aspect": false}, {"actual_index": [21, 22], "is_potential_aspect": false}]}
+{"text": "as it turns out the owner was seated right next to us and when he came over to check on our problems was very dismissive and offered a token 20 % discount on our bill .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [6, 7], "is_potential_aspect": false}, {"actual_index": [24, 25], "is_potential_aspect": false}]}
+{"text": "when the bill came , he only took the discount off the food and not the drinks .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}, {"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "it was clear he didn \u2019 t really care .", "opinions": [{"actual_index": [-1, -1], "is_potential_aspect": false}]}
+{"text": "\u2013 save yourself the waste of time & do not visit .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [9, 10], "is_potential_aspect": false}]}
+{"text": "after sitting there with my empty glass for over 20 minutes i left .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "i went home & looked them up online again where i discovered there is a link for a give away that does n ' t work so emailed the restaurant about the non existent service & deceptive link .", "opinions": [{"actual_index": [33, 34], "is_potential_aspect": false}]}
+{"text": "i never heard back from anyone more than a month ago .", "opinions": [{"actual_index": [9, 10], "is_potential_aspect": true}]}
+{"text": "after sitting at the bar for over 20 minutes the bar keep had made only 2 drinks & kept telling us she ' d be right with us .", "opinions": [{"actual_index": [14, 15], "is_potential_aspect": false}, {"actual_index": [19, 20], "is_potential_aspect": false}]}
+{"text": "as of writing this i just tried their give away a link again & it still does n ' t work .", "opinions": [{"actual_index": [12, 13], "is_potential_aspect": false}, {"actual_index": [17, 20], "is_potential_aspect": false}]}
+{"text": "always a winner .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "she does n ' t make you feel welcome and treats you like an annoyance .", "opinions": [{"actual_index": [2, 5], "is_potential_aspect": false}, {"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "but she is very friendly with certain people , making it even more annoying .", "opinions": [{"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "management should really take notice and train their waitstaff and teach them some proper manners .", "opinions": [{"actual_index": [8, 9], "is_potential_aspect": true}, {"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "they have been featured on the food network and they deserve it .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "does n ' t get any better than that .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "you can easily hear him though so it was a pleasant sound and not overbearing .", "opinions": [{"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "not too fine thought that you feel uncomfortable and have to dress up .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "first off , the food came fast and all together : ) i like that . . . i hate the pretentiousness of things coming in one after the other .", "opinions": [{"actual_index": [19, 20], "is_potential_aspect": false}]}
+{"text": "yummy .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "not chewy at all .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "for desert we had the mango ginger creme brulee . . . oh la la yummy ! ! !", "opinions": [{"actual_index": [15, 16], "is_potential_aspect": false}]}
+{"text": "melt in your mouth .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "we are for sure coming back to this restaurant .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "it is sad there is not many people who frequent eating at places like these that look pricey because they are at the hotel . . . but they are definitely one you dont want to miss , esp if your in downtown san jose .", "opinions": [{"actual_index": [30, 31], "is_potential_aspect": false}, {"actual_index": [34, 35], "is_potential_aspect": false}, {"actual_index": [36, 37], "is_potential_aspect": false}]}
+{"text": "we easily spent more than $ 40 per person ( not including alcohol ) and were still hungry .", "opinions": [{"actual_index": [16, 17], "is_potential_aspect": false}]}
+{"text": "i ' m astonished that this restaurant is categorized as $ $ $ rather than $ $ $ $ .", "opinions": [{"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "we put out name down and although there were open tables we were told that it ' d be a 30 minute wait .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [13, 14], "is_potential_aspect": false}, {"actual_index": [22, 23], "is_potential_aspect": false}]}
+{"text": "we went back to the restaurant and low and behold , we were seated at one of the tables that was available 30 minutes ago ! !", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [23, 24], "is_potential_aspect": true}]}
+{"text": "none that i can think of .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "we put in our order and although we ordered 4 appetizers , the food did n ' t arrive until 45 minutes later . . . with our main course .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "um so now what are appetizers for ? ? ?", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "oh i forgot to mention that they do n ' t have bread service .", "opinions": [{"actual_index": [8, 11], "is_potential_aspect": false}]}
+{"text": "my wife also ordered a teapot of hot water ( she had a sore throat ) and i guess that since it was only water , it was n ' t a priority for them to actually bring it .", "opinions": [{"actual_index": [13, 14], "is_potential_aspect": false}, {"actual_index": [22, 23], "is_potential_aspect": false}, {"actual_index": [28, 31], "is_potential_aspect": false}, {"actual_index": [36, 37], "is_potential_aspect": false}]}
+{"text": "in other words , if they are n ' t making $ $ off of you then you do n ' t rate high on their ' service scale ' .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [19, 22], "is_potential_aspect": false}]}
+{"text": "its great if you spent the day there and did n ' t want to drive to eat .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "parking is reasonably good , they have their own lot and you can park in the park nearby .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "always good .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "6pm on a sat before a broadway play and we were quickly seated and served .", "opinions": [{"actual_index": [11, 12], "is_potential_aspect": false}, {"actual_index": [14, 15], "is_potential_aspect": false}]}
+{"text": "as part of a small party of four , our food was dropped off without comment ;", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": true}, {"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "any further needs we may have had could not have been met since no one stopped by the table .", "opinions": [{"actual_index": [15, 16], "is_potential_aspect": false}]}
+{"text": "when we finally were able to flag someone down , it was someone entirely different from the person who had dropped off the food , who was also not the same person who had taken our order .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": true}, {"actual_index": [12, 13], "is_potential_aspect": true}, {"actual_index": [28, 29], "is_potential_aspect": false}]}
+{"text": "a brief conversation with the manager at the end of the meal was the greatest disappointment - - to say we had been ` ` blown off ' ' would be an understatement .", "opinions": [{"actual_index": [15, 16], "is_potential_aspect": false}]}
+{"text": "the manager continually interrupted with ` ` is there anything else i can do for you ? ` ` , a strange comment because she had hardly listened , let alone responded to our expression of disappointment at our experience .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [8, 9], "is_potential_aspect": false}, {"actual_index": [36, 37], "is_potential_aspect": false}]}
+{"text": "she promised to speak to the waitress who had flown off in a rage , but we could hardly take her promise seriously , seeing as she had n ' t bothered to get the waitresses name .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [3, 4], "is_potential_aspect": false}, {"actual_index": [13, 14], "is_potential_aspect": false}, {"actual_index": [22, 23], "is_potential_aspect": false}, {"actual_index": [31, 32], "is_potential_aspect": false}]}
+{"text": "in short , schooner or later could n ' t have cared less about our being at their establishment .", "opinions": [{"actual_index": [11, 12], "is_potential_aspect": false}, {"actual_index": [12, 13], "is_potential_aspect": false}]}
+{"text": "you are with a hot date and he / she has an urge for sushi . . . then this might be the place .", "opinions": [{"actual_index": [21, 22], "is_potential_aspect": false}]}
+{"text": "and they give good quantity for the price .", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": false}]}
+{"text": "we were only in seattle for one night and i ' m so glad we picked rays for dinner !", "opinions": [{"actual_index": [13, 14], "is_potential_aspect": false}]}
+{"text": "this is the case at this gem .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "you ca n ' t go wrong here .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "seriously , you ca n ' t go wrong , if it is unpretentious local fun you seek .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}, {"actual_index": [15, 16], "is_potential_aspect": false}]}
+{"text": "my mouth felt very dry afterwards and i had that signature ? msg ? taste lingering in my throat after i left the restaurant .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [15, 16], "is_potential_aspect": false}]}
+{"text": "they came in their own nifty take out box and with some homemade frosting ; very light and not - too - sweet .", "opinions": [{"actual_index": [15, 16], "is_potential_aspect": false}, {"actual_index": [22, 23], "is_potential_aspect": false}]}
+{"text": "the dinner only took us about an hour and the prices were alright for the strip , almost $ 50 / pp after tax and tip ( about average ) .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [11, 12], "is_potential_aspect": false}]}
+{"text": "just remember to dress a little urban - chic so you don ? t look too far out of place .", "opinions": [{"actual_index": [13, 14], "is_potential_aspect": true}]}
+{"text": "very good !", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "overpriced", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "waited 35 minutes for a table for 8 which was ok for such a big crowd .", "opinions": [{"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "not sure if i would go back .", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "in fact , many want to return a second time during their visit .", "opinions": [{"actual_index": [4, 5], "is_potential_aspect": false}, {"actual_index": [6, 7], "is_potential_aspect": false}]}
+{"text": "they are n ' t the most talkative , but everytime i ' ve been there they have been very busy , which probably accounts for the lack of conversation .", "opinions": [{"actual_index": [2, 5], "is_potential_aspect": false}, {"actual_index": [27, 28], "is_potential_aspect": false}]}
+{"text": "it ' s just the right size for the menu .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}]}
+{"text": "excellent", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "you never feel icky and stuffed after you eat there .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "the pizza ' s are light and scrumptious .", "opinions": [{"actual_index": [7, 8], "is_potential_aspect": false}]}
+{"text": "worth the wait", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "\u2013 had to wait thirty minutes to get in the door on a tuesday morning , but it was so worth it .", "opinions": [{"actual_index": [20, 21], "is_potential_aspect": false}]}
+{"text": "go with some friends , wait the half hour or so with a cup of joe , and enjoy more than your average breakfast .", "opinions": [{"actual_index": [18, 19], "is_potential_aspect": false}]}
+{"text": "i do n ' t know why anyone would want to write a great review about this place .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}, {"actual_index": [7, 8], "is_potential_aspect": true}]}
+{"text": "donot go !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "delicious", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "we waited for an hour to be seated .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "it was worth the wait .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "plan on waiting 30 - 70 minutes .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": true}]}
+{"text": "will definitely be back .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "delicious . . . !", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "delectable", "opinions": [{"actual_index": [0, 1], "is_potential_aspect": false}]}
+{"text": "once you ' re inside , the real experience begins .", "opinions": [{"actual_index": [8, 9], "is_potential_aspect": false}]}
+{"text": "i probably would n ' t go back though ' cuz i do n ' t know if it ' s worth it .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}, {"actual_index": [16, 17], "is_potential_aspect": false}, {"actual_index": [19, 21], "is_potential_aspect": false}]}
+{"text": "maybe i ' ll go back once more many years from now when i ' ve forgotten i went there already .", "opinions": [{"actual_index": [5, 6], "is_potential_aspect": false}, {"actual_index": [19, 20], "is_potential_aspect": false}]}
+{"text": "sit in the balcony", "opinions": [{"actual_index": [3, 4], "is_potential_aspect": true}]}
+{"text": "\u2013 not bad .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "although the service could be improved considering the money you put in .", "opinions": [{"actual_index": [10, 11], "is_potential_aspect": false}]}
+{"text": "our drinks kept coming but our server came by a couple times .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}]}
+{"text": "should check - up on us more frequently , do n ' t you think ?", "opinions": [{"actual_index": [10, 13], "is_potential_aspect": false}]}
+{"text": "the most pleasant surprise was the check that did not exceed my expectations as it always happens in most of the places .", "opinions": [{"actual_index": [2, 3], "is_potential_aspect": false}, {"actual_index": [15, 16], "is_potential_aspect": false}]}
+{"text": "i felt ackward and next time went to the casino bathroom .", "opinions": [{"actual_index": [10, 11], "is_potential_aspect": true}]}
+{"text": "this place rocks ! !", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "the chips and salsa are so yummy , and the prices are fabulous .", "opinions": [{"actual_index": [6, 7], "is_potential_aspect": false}, {"actual_index": [12, 13], "is_potential_aspect": false}]}
+{"text": "the atmosphere is aspiring , and the decor is festive and amazing . .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": true}, {"actual_index": [11, 12], "is_potential_aspect": false}]}
+{"text": "insultingly overpriced", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "- mediocre service / quality", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}, {"actual_index": [4, 5], "is_potential_aspect": false}]}
+{"text": "to their credit they removed the dish from the check ; but no manager stopped by to ask what the problem was .", "opinions": [{"actual_index": [14, 15], "is_potential_aspect": false}, {"actual_index": [20, 21], "is_potential_aspect": false}]}
+{"text": "two rascally kids were seated near us for the first part of our dinner . . . they were replaced by a delightful preteen who pretended to gag every time seafood was mentioned at her table .", "opinions": [{"actual_index": [1, 2], "is_potential_aspect": false}]}
+{"text": "all considered , i have to say that ray ' s boathouse is deserving of its title as a seattle institution .", "opinions": [{"actual_index": [13, 14], "is_potential_aspect": false}]}

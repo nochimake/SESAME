@@ -1,0 +1,5 @@
+BASE_DIR = '.'
+JAVA_PATH = '/path/to/java'
+ROBERTA_PATH = '/path/to/roberta'
+CHINESE_BERT_PATH = '/path/to/chinese-bert'
+STANFORD_CORE_NLP_PATH = '/path/to/stanford-corenlp'
