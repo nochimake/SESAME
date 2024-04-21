@@ -59,11 +59,11 @@
 
 3. transformers=4.31.0
 
-4. shap==0.42.1
+4. shap=0.42.1
 
-5. stanfordcorenlp==3.9.1.1
+5. stanfordcorenlp=3.9.1.1
 
-6. pycorenlp==0.3.0
+6. pycorenlp=0.3.0
 
 
 ## Run
