@@ -98,10 +98,9 @@ class OpinionExtractor:
     def extract_clause_opinion(self,std_p: float):
         '''
         Select one opinion for each clause
-        :param std_p: Coefficient of standard deviation, default value is 0.7
+        :param std_p: Coefficient of standard deviation, default value is 0.8
         The returned opinion has three attributes:
             'actual_index': The true index range of opinion,
-            'after_implicit': The result of explicit and implicit judgment of opinion
             'is_potential_aspect': is it a potential aspect
         '''
         import numpy as np
